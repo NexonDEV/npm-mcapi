@@ -1,0 +1,24 @@
+{
+  "name": "minecraftjs-npm",
+  "version": "0.1.12",
+  "description": "NodeJS minecraft wrapper",
+  "homepage": "https://github.com/NexonDEV/npm-mcapi",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "minecraft",
+    "mc",
+    "wrapper",
+    "mojang",
+    "api"
+  ],
+  "author": "NexonDEV",
+  "license": "MIT",
+  "dependencies": {
+    "add-dashes-to-uuid": "^1.0.0",
+    "axios": "^0.26.0",
+    "sha1": "^1.1.1"
+  }
+}
